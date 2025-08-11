@@ -2,4 +2,3 @@
 this is first txt file created in the git project; best of luck
 file add in the git by "git add" command
 this is edit from git-gui
-

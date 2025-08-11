@@ -1,1 +1,2 @@
 this is second file created in the folder. git bas is closed.
+this is code writtend by atiq from codue studio

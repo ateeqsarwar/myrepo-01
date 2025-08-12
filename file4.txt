@@ -1,4 +1,2 @@
 this is 4th file of my git repostriy.
-this is new line add atiq asdf
-asdfs
-sdfasdf
+ remove the extrs lines from file-04. from github.

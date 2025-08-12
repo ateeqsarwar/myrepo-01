@@ -1,2 +1,4 @@
 this is second file created in the folder. git bas is closed.
 this is code writtend by atiq from codue studio
+this file edit from windows system. dated august 12, 2025 @ 3:32 pm;
+now check status from centos . update are received are not.
